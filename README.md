@@ -1,5 +1,7 @@
 # Katha.js
 
+[![Discord](https://img.shields.io/discord/1483879594619568291?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/QSdjPhbU)
+
 ![katha.png](katha.png)
 
 Katha.js is a compact yet mighty functional programming utility library for JavaScript. Designed to be small and straightforward, it provides all the essential tools for functional programming without any unnecessary complexity. Katha.js streamlines your code, making it more concise, readable, and maintainable, ensuring you have everything you need for functional programming in a neat and simple package.
